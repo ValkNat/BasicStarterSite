@@ -1,0 +1,58 @@
+.menu {
+  width: 80%
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  padding: inherit;
+  text-align: center;
+  font-family: monospace;
+  background-color: #cdb4db;
+  margin-bottom: 30px;
+  border: solid white;
+  border-radius: 10px;
+  height: 50px;
+  background-image: url(b558793ed7d3f94e1fc5593b7030a8a4.gif)
+
+}
+
+.header-1 {
+
+  background-color: #cdb4db;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-bottom: 50px;
+  color: white;
+  border: solid white;
+  border-radius: 10px;
+  font-family: monospace;
+  background-image: url(b558793ed7d3f94e1fc5593b7030a8a4.gif)
+
+
+}
+
+
+.goals {
+
+  background-color: #cdb4db;
+  padding-bottom: 10px;
+  text-align: center;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  color: white;
+  border: solid white;
+  border-radius: 10px;
+  font-family: monospace;
+  background-image: url(b558793ed7d3f94e1fc5593b7030a8a4.gif)
+
+
+
+}
+
+
+body {
+  background-image: url(59b8c8622c076c5dc7bac0dd591c712c.gif)
+
+}
